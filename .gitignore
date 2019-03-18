@@ -1,0 +1,5 @@
+.idea/
+target/
+/src/main/resources/application-local.properties
+/swr-backend.iml
+/swr-backend.log*
